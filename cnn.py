@@ -79,7 +79,7 @@ test_set = test_datagen.flow_from_directory('/content/drive/My Drive/dataset/tes
 
 CNN_Classifier.fit_generator(training_set,
                          steps_per_epoch = 7000,
-                         epochs = 1,
+                         epochs = 10,
                          validation_data = test_set,
                          validation_steps = 2000)
 
