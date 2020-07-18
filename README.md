@@ -13,7 +13,7 @@ The Dogs vs. Cats dataset is a standard computer vision dataset that involves cl
 <br>
 
 #### (1)Convolution
-<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/image/1.png"></img><br>
-<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/2.png"><br>
-<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/3.png"><br>
-<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/4.png"><br>
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/tree/master/Image/1.png"></img<br>
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/tree/master/Image/2.png"></img><br>
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/3.png"></img><br>
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/4.png"></img><br>
