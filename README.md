@@ -10,3 +10,10 @@ The Dogs vs. Cats dataset is a standard computer vision dataset that involves cl
 <li>Softmax Activation function</li>
 <li>Loss function</li>
 </ul>
+<br>
+
+#### (1)Convolution
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/image/1.png"></img><br>
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/2.png"><br>
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/3.png"><br>
+<img src="https://github.com/deep-santani/Dog_vs_cat-CNN/Image/4.png"><br>
