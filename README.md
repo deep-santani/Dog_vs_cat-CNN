@@ -1,6 +1,7 @@
 # Dog_vs_cat-CNN
 The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat. Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks.
 
+### I use Google colab because my pc not have sufficient GPU power.(Suggest use Google Colab)<br>
 ### Link For Database : <a href="https://www.kaggle.com/chetankv/dogs-cats-images">Kaggle Dogs & cat Images</a><br><br>
 ### Link For Different Kind of Filter : <a href="http://setosa.io/ev/image-kernels/">Image Kernels</a><br><br>
 
