@@ -59,4 +59,4 @@ The Dogs vs. Cats dataset is a standard computer vision dataset that involves cl
 <img src="https://github.com/deep-santani/Dog_vs_cat-CNN/blob/master/Image/11.png"></img><br>
 <br>
 
-### 😎Thank to fahadhussaincs For Make it easy😎
+# 😎Thank to fahadhussaincs For Make it easy😎
